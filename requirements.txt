@@ -1,0 +1,22 @@
+Django
+python-dotenv==1.0.0
+psycopg
+psycopg2
+djangorestframework
+django-filter
+
+channels
+channels_redis
+django-cors-headers
+dj-rest-auth
+dj-rest-auth[with_social]
+django-allauth
+djangorestframework-simplejwt
+drf-yasg
+Pillow
+
+django-csp
+django-rest-framework-rules==0.1.1
+six
+
+# pywhatkit
